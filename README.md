@@ -60,7 +60,7 @@ To understand customer behavior and group similar customers together using clust
 | Metric             | Value               |
 |--------------------|---------------------|
 | Optimal Clusters   | 5                   |
-| Evaluation Metric  | Silhouette Score ~0.55 |
+| Evaluation Metric  | Silhouette Score ~0.27191023466188324 |
 | Outcome            | Identified 5 distinct customer segments |
 
 ---
